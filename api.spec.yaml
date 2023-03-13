@@ -1,0 +1,133 @@
+openapi: 3.1.0
+info:
+  description: ""
+  version: 1.0.0
+  title: Credit Dev App
+paths:
+  /customer/{bvn}/:
+    get:
+      summary: Retrives customer data for the given bvn
+      description: This endpoint returns customers data
+      parameters:
+        - in: path
+          name: bvn
+          description: Customer bvn
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Customer data
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                  bvn:
+                    type: string
+                  phone_number:
+                    type: string
+        '404':
+          description: Bvn doesn't exist
+        '500':
+          description: Unexpected API error
+  /customer/{bvn}/transactions/:
+    get:
+      summary: Retrives a list of all transactions for the given bvn
+      parameters:
+        - in: path
+          name: bvn
+          description: Customer bvn
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Customer Transactions
+          content:
+            application/json:
+              schema:
+                type: array
+                properties:
+                  customer:
+                    type: string
+                    description: Customer's bvn
+                  date:
+                    type: string
+                  transaction_type:
+                    type: string
+                  amount:
+                    type: float
+        '404':
+          description: Bvn doesn't exist
+        '500':
+          description: Unexpected API error
+  /customer/{bvn}/transaction-summary/:
+    get:
+      summary: Retrives customer details and transaction summary for the given bvn
+      parameters:
+        - in: path
+          name: bvn
+          description: Customer bvn
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Customer Transactions Summary
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                  bvn:
+                    type: string
+                  phone_number:
+                    type: string
+                  credit_sum:
+                    type: float
+                    description: A sum of all customers credits
+                  debit_sum:
+                    type: float
+                    description: A sum of all customers debits
+                  credit_count:
+                    type: integer
+                    description: count of all customer transactions that are credits
+                  debit_count:
+                    type: integer
+                    description: count of all customer transactions that are debits
+        '404':
+          description: Bvn doesn't exist
+        '500':
+          description: Unexpected API error
+  /customer/{bvn}/score/:
+    get:
+      summary: Calculate credit worthiness score for given customer
+      description: This endpoint returns credit worthiness score
+      parameters:
+        - in: path
+          name: bvn
+          description: Customer bvn
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Score
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  bvn:
+                    type: string
+                  score:
+                    type: float
+        '404':
+          description: Bvn doesn't exist
+        '500':
+          description: Unexpected API error

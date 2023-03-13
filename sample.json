@@ -1,0 +1,1787 @@
+[
+    {
+        "name": "Brittany Wilson",
+        "phone_number": "08079456236",
+        "bvn": 29317173914,
+        "transactions": [
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 7200
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 3100
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "DEBIT",
+                "amount": 1300
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "DEBIT",
+                "amount": 4300
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "DEBIT",
+                "amount": 2700
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 2700
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 3700
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 20000
+            },
+            {
+                "date": "2022-04-18",
+                "transaction_type": "CREDIT",
+                "amount": 55000
+            },
+            {
+                "date": "2022-04-23",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            },
+            {
+                "date": "2022-04-23",
+                "transaction_type": "DEBIT",
+                "amount": 16000
+            },
+            {
+                "date": "2022-04-23",
+                "transaction_type": "DEBIT",
+                "amount": 2700
+            },
+            {
+                "date": "2022-04-23",
+                "transaction_type": "DEBIT",
+                "amount": 3700
+            },
+            {
+                "date": "2022-04-23",
+                "transaction_type": "DEBIT",
+                "amount": 4900
+            },
+            {
+                "date": "2022-05-04",
+                "transaction_type": "CREDIT",
+                "amount": 81000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 16000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 44000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 3600
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 3000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 22000
+            },
+            {
+                "date": "2022-05-21",
+                "transaction_type": "CREDIT",
+                "amount": 6600
+            },
+            {
+                "date": "2022-05-21",
+                "transaction_type": "CREDIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 2500
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 4400
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 4900
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 42000
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "DEBIT",
+                "amount": 2100
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            }
+        ]
+    },
+    {
+        "name": "Kevin Peterson",
+        "phone_number": "08031877885",
+        "bvn": 27693635891,
+        "transactions": [
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 29000
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 4200
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 13000
+            },
+            {
+                "date": "2022-04-16",
+                "transaction_type": "DEBIT",
+                "amount": 4000
+            },
+            {
+                "date": "2022-04-16",
+                "transaction_type": "DEBIT",
+                "amount": 4900
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 1600
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 40000
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 22000
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 3900
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 85000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 81000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "DEBIT",
+                "amount": 3400
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "DEBIT",
+                "amount": 3300
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "DEBIT",
+                "amount": 15000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 3300
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 1700
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 3100
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 3300
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 25000
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 38000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "CREDIT",
+                "amount": 4500
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "CREDIT",
+                "amount": 6100
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 18000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 14000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 16000
+            },
+            {
+                "date": "2022-05-17",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "DEBIT",
+                "amount": 4600
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "DEBIT",
+                "amount": 20000
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "DEBIT",
+                "amount": 39000
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "DEBIT",
+                "amount": 3200
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "DEBIT",
+                "amount": 13000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 2800
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 2700
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 11000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 3200
+            },
+            {
+                "date": "2022-06-24",
+                "transaction_type": "DEBIT",
+                "amount": 46000
+            }
+        ]
+    },
+    {
+        "name": "Joshua Martinez",
+        "phone_number": "08088691760",
+        "bvn": 22267144571,
+        "transactions": [
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 28000
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 1800
+            },
+            {
+                "date": "2022-05-01",
+                "transaction_type": "CREDIT",
+                "amount": 8500
+            },
+            {
+                "date": "2022-05-05",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 5000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-05-09",
+                "transaction_type": "DEBIT",
+                "amount": 25000
+            },
+            {
+                "date": "2022-05-16",
+                "transaction_type": "CREDIT",
+                "amount": 2800
+            },
+            {
+                "date": "2022-05-16",
+                "transaction_type": "CREDIT",
+                "amount": 29000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "CREDIT",
+                "amount": 41000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "CREDIT",
+                "amount": 15000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 13000
+            },
+            {
+                "date": "2022-05-30",
+                "transaction_type": "DEBIT",
+                "amount": 3000
+            },
+            {
+                "date": "2022-05-30",
+                "transaction_type": "DEBIT",
+                "amount": 3400
+            },
+            {
+                "date": "2022-05-30",
+                "transaction_type": "DEBIT",
+                "amount": 3200
+            },
+            {
+                "date": "2022-05-30",
+                "transaction_type": "DEBIT",
+                "amount": 2100
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "CREDIT",
+                "amount": 54000
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "CREDIT",
+                "amount": 6700
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "CREDIT",
+                "amount": 6400
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 3900
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 39000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 13000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 3600
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 13000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 4400
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "CREDIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "CREDIT",
+                "amount": 1900
+            }
+        ]
+    },
+    {
+        "name": "Kathleen Mullins",
+        "phone_number": "08032160724",
+        "bvn": 25801164036,
+        "transactions": [
+            {
+                "date": "2022-04-09",
+                "transaction_type": "DEBIT",
+                "amount": 47000
+            },
+            {
+                "date": "2022-04-09",
+                "transaction_type": "DEBIT",
+                "amount": 2600
+            },
+            {
+                "date": "2022-04-09",
+                "transaction_type": "DEBIT",
+                "amount": 40000
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 89000
+            },
+            {
+                "date": "2022-04-14",
+                "transaction_type": "CREDIT",
+                "amount": 3200
+            },
+            {
+                "date": "2022-05-11",
+                "transaction_type": "DEBIT",
+                "amount": 1600
+            },
+            {
+                "date": "2022-05-11",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 45000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 4100
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 4800
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 15000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 4600
+            },
+            {
+                "date": "2022-05-27",
+                "transaction_type": "CREDIT",
+                "amount": 100000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 33000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 42000
+            },
+            {
+                "date": "2022-06-09",
+                "transaction_type": "DEBIT",
+                "amount": 2300
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 46000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 21000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 4700
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-18",
+                "transaction_type": "CREDIT",
+                "amount": 6200
+            },
+            {
+                "date": "2022-06-18",
+                "transaction_type": "CREDIT",
+                "amount": 2900
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "CREDIT",
+                "amount": 99000
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "DEBIT",
+                "amount": 2800
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "CREDIT",
+                "amount": 94000
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "CREDIT",
+                "amount": 20000
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "DEBIT",
+                "amount": 21000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 23000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 37000
+            }
+        ]
+    },
+    {
+        "name": "Tammy Stewart",
+        "phone_number": "08077366669",
+        "bvn": 29043187707,
+        "transactions": [
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 3300
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 17000
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 3400
+            },
+            {
+                "date": "2022-04-13",
+                "transaction_type": "DEBIT",
+                "amount": 46000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "CREDIT",
+                "amount": 81000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "CREDIT",
+                "amount": 7400
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "CREDIT",
+                "amount": 9500
+            },
+            {
+                "date": "2022-04-24",
+                "transaction_type": "CREDIT",
+                "amount": 3900
+            },
+            {
+                "date": "2022-04-30",
+                "transaction_type": "DEBIT",
+                "amount": 29000
+            },
+            {
+                "date": "2022-04-30",
+                "transaction_type": "DEBIT",
+                "amount": 3600
+            },
+            {
+                "date": "2022-04-30",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-04-30",
+                "transaction_type": "DEBIT",
+                "amount": 3700
+            },
+            {
+                "date": "2022-05-20",
+                "transaction_type": "CREDIT",
+                "amount": 21000
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 2400
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 3100
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 25000
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "DEBIT",
+                "amount": 3800
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "DEBIT",
+                "amount": 43000
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "DEBIT",
+                "amount": 4000
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "DEBIT",
+                "amount": 17000
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "DEBIT",
+                "amount": 1700
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 37000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 3500
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 16000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 43000
+            },
+            {
+                "date": "2022-06-05",
+                "transaction_type": "DEBIT",
+                "amount": 40000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 3800
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 29000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 4000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 1800
+            },
+            {
+                "date": "2022-06-12",
+                "transaction_type": "DEBIT",
+                "amount": 2100
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "CREDIT",
+                "amount": 31000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "CREDIT",
+                "amount": 2300
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "CREDIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 2100
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 1600
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 3000
+            }
+        ]
+    },
+    {
+        "name": "Mary Johnson",
+        "phone_number": "08086634423",
+        "bvn": 23970646244,
+        "transactions": [
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 45000
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 45000
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 36000
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 5000
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 3200
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 3100
+            },
+            {
+                "date": "2022-05-16",
+                "transaction_type": "CREDIT",
+                "amount": 3900
+            },
+            {
+                "date": "2022-05-28",
+                "transaction_type": "CREDIT",
+                "amount": 4800
+            },
+            {
+                "date": "2022-05-28",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 1800
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 2800
+            },
+            {
+                "date": "2022-06-10",
+                "transaction_type": "DEBIT",
+                "amount": 27000
+            },
+            {
+                "date": "2022-06-14",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-14",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-06-25",
+                "transaction_type": "CREDIT",
+                "amount": 72000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "CREDIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "CREDIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 36000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 1800
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 2100
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 21000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-06-26",
+                "transaction_type": "DEBIT",
+                "amount": 20000
+            },
+            {
+                "date": "2022-06-28",
+                "transaction_type": "CREDIT",
+                "amount": 62000
+            },
+            {
+                "date": "2022-06-28",
+                "transaction_type": "CREDIT",
+                "amount": 52000
+            },
+            {
+                "date": "2022-06-28",
+                "transaction_type": "CREDIT",
+                "amount": 2300
+            }
+        ]
+    },
+    {
+        "name": "Lisa Joyce",
+        "phone_number": "08039501278",
+        "bvn": 22961355836,
+        "transactions": [
+            {
+                "date": "2022-04-25",
+                "transaction_type": "CREDIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 18000
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 44000
+            },
+            {
+                "date": "2022-04-28",
+                "transaction_type": "DEBIT",
+                "amount": 1900
+            },
+            {
+                "date": "2022-04-29",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-05-11",
+                "transaction_type": "CREDIT",
+                "amount": 100000
+            },
+            {
+                "date": "2022-05-11",
+                "transaction_type": "CREDIT",
+                "amount": 1500
+            },
+            {
+                "date": "2022-05-11",
+                "transaction_type": "CREDIT",
+                "amount": 80000
+            },
+            {
+                "date": "2022-05-15",
+                "transaction_type": "DEBIT",
+                "amount": 3100
+            },
+            {
+                "date": "2022-05-15",
+                "transaction_type": "DEBIT",
+                "amount": 34000
+            },
+            {
+                "date": "2022-05-15",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-05-16",
+                "transaction_type": "DEBIT",
+                "amount": 1900
+            },
+            {
+                "date": "2022-05-22",
+                "transaction_type": "CREDIT",
+                "amount": 1600
+            },
+            {
+                "date": "2022-05-30",
+                "transaction_type": "CREDIT",
+                "amount": 4800
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "CREDIT",
+                "amount": 60000
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "DEBIT",
+                "amount": 1300
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-03",
+                "transaction_type": "DEBIT",
+                "amount": 35000
+            },
+            {
+                "date": "2022-06-11",
+                "transaction_type": "CREDIT",
+                "amount": 8300
+            },
+            {
+                "date": "2022-06-11",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-06-11",
+                "transaction_type": "DEBIT",
+                "amount": 33000
+            },
+            {
+                "date": "2022-06-17",
+                "transaction_type": "DEBIT",
+                "amount": 49000
+            },
+            {
+                "date": "2022-06-17",
+                "transaction_type": "DEBIT",
+                "amount": 2500
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "DEBIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "DEBIT",
+                "amount": 35000
+            },
+            {
+                "date": "2022-06-23",
+                "transaction_type": "DEBIT",
+                "amount": 2000
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 4700
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 2000
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 28000
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 1100
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 4000
+            },
+            {
+                "date": "2022-06-30",
+                "transaction_type": "DEBIT",
+                "amount": 16000
+            }
+        ]
+    },
+    {
+        "name": "Laura Case",
+        "phone_number": "08034271366",
+        "bvn": 29260640251,
+        "transactions": [
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 41000
+            },
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 2500
+            },
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 5300
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 24000
+            },
+            {
+                "date": "2022-04-12",
+                "transaction_type": "CREDIT",
+                "amount": 25000
+            },
+            {
+                "date": "2022-04-17",
+                "transaction_type": "CREDIT",
+                "amount": 6200
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "CREDIT",
+                "amount": 51000
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "CREDIT",
+                "amount": 6600
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "CREDIT",
+                "amount": 78000
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "DEBIT",
+                "amount": 2200
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "DEBIT",
+                "amount": 41000
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "DEBIT",
+                "amount": 40000
+            },
+            {
+                "date": "2022-04-20",
+                "transaction_type": "DEBIT",
+                "amount": 2500
+            },
+            {
+                "date": "2022-04-26",
+                "transaction_type": "CREDIT",
+                "amount": 6600
+            },
+            {
+                "date": "2022-05-02",
+                "transaction_type": "DEBIT",
+                "amount": 43000
+            },
+            {
+                "date": "2022-05-04",
+                "transaction_type": "CREDIT",
+                "amount": 2600
+            },
+            {
+                "date": "2022-05-04",
+                "transaction_type": "CREDIT",
+                "amount": 6100
+            },
+            {
+                "date": "2022-05-04",
+                "transaction_type": "CREDIT",
+                "amount": 18000
+            },
+            {
+                "date": "2022-05-20",
+                "transaction_type": "CREDIT",
+                "amount": 1900
+            },
+            {
+                "date": "2022-05-20",
+                "transaction_type": "CREDIT",
+                "amount": 73000
+            },
+            {
+                "date": "2022-05-20",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-05-24",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-05-24",
+                "transaction_type": "DEBIT",
+                "amount": 4400
+            },
+            {
+                "date": "2022-06-04",
+                "transaction_type": "DEBIT",
+                "amount": 28000
+            },
+            {
+                "date": "2022-06-04",
+                "transaction_type": "DEBIT",
+                "amount": 2700
+            },
+            {
+                "date": "2022-06-04",
+                "transaction_type": "DEBIT",
+                "amount": 47000
+            },
+            {
+                "date": "2022-06-04",
+                "transaction_type": "DEBIT",
+                "amount": 1700
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "CREDIT",
+                "amount": 9300
+            },
+            {
+                "date": "2022-06-13",
+                "transaction_type": "CREDIT",
+                "amount": 89000
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 4900
+            },
+            {
+                "date": "2022-06-15",
+                "transaction_type": "DEBIT",
+                "amount": 20000
+            },
+            {
+                "date": "2022-06-19",
+                "transaction_type": "DEBIT",
+                "amount": 23000
+            },
+            {
+                "date": "2022-06-19",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-06-19",
+                "transaction_type": "DEBIT",
+                "amount": 1200
+            }
+        ]
+    },
+    {
+        "name": "Aaron Harper",
+        "phone_number": "08079356922",
+        "bvn": 25695294619,
+        "transactions": [
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 44000
+            },
+            {
+                "date": "2022-04-10",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 1400
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 31000
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 3500
+            },
+            {
+                "date": "2022-04-11",
+                "transaction_type": "DEBIT",
+                "amount": 45000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "CREDIT",
+                "amount": 3400
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "CREDIT",
+                "amount": 1500
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "DEBIT",
+                "amount": 48000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "DEBIT",
+                "amount": 4400
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "DEBIT",
+                "amount": 32000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "DEBIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-04-19",
+                "transaction_type": "DEBIT",
+                "amount": 26000
+            },
+            {
+                "date": "2022-04-21",
+                "transaction_type": "DEBIT",
+                "amount": 1700
+            },
+            {
+                "date": "2022-04-21",
+                "transaction_type": "DEBIT",
+                "amount": 2000
+            },
+            {
+                "date": "2022-04-21",
+                "transaction_type": "DEBIT",
+                "amount": 50000
+            },
+            {
+                "date": "2022-04-21",
+                "transaction_type": "DEBIT",
+                "amount": 2600
+            },
+            {
+                "date": "2022-04-22",
+                "transaction_type": "DEBIT",
+                "amount": 1900
+            },
+            {
+                "date": "2022-04-27",
+                "transaction_type": "CREDIT",
+                "amount": 9300
+            },
+            {
+                "date": "2022-05-03",
+                "transaction_type": "DEBIT",
+                "amount": 4700
+            },
+            {
+                "date": "2022-05-05",
+                "transaction_type": "CREDIT",
+                "amount": 86000
+            },
+            {
+                "date": "2022-05-05",
+                "transaction_type": "CREDIT",
+                "amount": 9600
+            },
+            {
+                "date": "2022-05-05",
+                "transaction_type": "CREDIT",
+                "amount": 64000
+            },
+            {
+                "date": "2022-05-05",
+                "transaction_type": "DEBIT",
+                "amount": 3300
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 3800
+            },
+            {
+                "date": "2022-05-07",
+                "transaction_type": "DEBIT",
+                "amount": 47000
+            },
+            {
+                "date": "2022-05-12",
+                "transaction_type": "CREDIT",
+                "amount": 37000
+            },
+            {
+                "date": "2022-05-12",
+                "transaction_type": "DEBIT",
+                "amount": 12000
+            },
+            {
+                "date": "2022-05-12",
+                "transaction_type": "DEBIT",
+                "amount": 5000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 8300
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 52000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 6000
+            },
+            {
+                "date": "2022-05-24",
+                "transaction_type": "DEBIT",
+                "amount": 28000
+            },
+            {
+                "date": "2022-05-24",
+                "transaction_type": "DEBIT",
+                "amount": 39000
+            },
+            {
+                "date": "2022-05-31",
+                "transaction_type": "CREDIT",
+                "amount": 74000
+            },
+            {
+                "date": "2022-06-21",
+                "transaction_type": "DEBIT",
+                "amount": 4300
+            },
+            {
+                "date": "2022-06-21",
+                "transaction_type": "DEBIT",
+                "amount": 42000
+            },
+            {
+                "date": "2022-06-21",
+                "transaction_type": "DEBIT",
+                "amount": 22000
+            },
+            {
+                "date": "2022-06-21",
+                "transaction_type": "DEBIT",
+                "amount": 25000
+            },
+            {
+                "date": "2022-06-21",
+                "transaction_type": "DEBIT",
+                "amount": 10000
+            },
+            {
+                "date": "2022-06-24",
+                "transaction_type": "CREDIT",
+                "amount": 41000
+            },
+            {
+                "date": "2022-06-24",
+                "transaction_type": "CREDIT",
+                "amount": 15000
+            },
+            {
+                "date": "2022-06-24",
+                "transaction_type": "CREDIT",
+                "amount": 39000
+            }
+        ]
+    },
+    {
+        "name": "Stephanie Robertson",
+        "phone_number": "08099845751",
+        "bvn": 25973606017,
+        "transactions": [
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 4300
+            },
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 1500
+            },
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 11000
+            },
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 1200
+            },
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 4200
+            },
+            {
+                "date": "2022-04-25",
+                "transaction_type": "DEBIT",
+                "amount": 19000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 49000
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 9600
+            },
+            {
+                "date": "2022-05-14",
+                "transaction_type": "CREDIT",
+                "amount": 92000
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 3500
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 3400
+            },
+            {
+                "date": "2022-05-23",
+                "transaction_type": "DEBIT",
+                "amount": 2300
+            },
+            {
+                "date": "2022-06-22",
+                "transaction_type": "DEBIT",
+                "amount": 30000
+            },
+            {
+                "date": "2022-06-22",
+                "transaction_type": "DEBIT",
+                "amount": 1000
+            }
+        ]
+    }
+]
