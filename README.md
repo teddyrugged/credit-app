@@ -1,5 +1,4 @@
 
-## Coding Task
 
 The given sample.json file contains bank transaction details of 10 customers over a 3 month period (April 1st 2022 to June 30th 2022).
 
@@ -7,11 +6,6 @@ You are to create an application to store the customers data and expose endpoint
 
 The included api.spec.yaml file details the required endpoints and their return values.
 
-- Required tools: Django, Django Rest Framework
-- Optional tools: Any Python library
-- Application should be created in this directory
-- Database used should be sqlite
-- If any details are unclear please ask. Assumptions lead to errors.
 
 ### Credit Worthiness Score
 
@@ -34,5 +28,3 @@ The credit worthiness score of a customer is calculated as follows:
     score = SigmoidFunc(ratio)
 
 
-### Deadline
- On or before Saturday, 28th January 2023, 11:59pm
